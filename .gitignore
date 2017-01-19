@@ -1,0 +1,6 @@
+EFCore/bin/
+packages/
+EFCore/obj/
+.vs/
+EFCoreTests/bin/
+EFCoreTests/obj/
